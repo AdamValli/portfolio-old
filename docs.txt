@@ -1,0 +1,4 @@
+This is a portfolio website for Challenge in Intermediate CSS of Udemy course.
+
+
+> Colour pallette: https://colorhunt.co/palette/290202
